@@ -13,7 +13,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-git-master-calebgfx22.vercel.app/" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mhhywrk1xyep6nnpqbma893hb)
+[<img src="
+novatorem-3m10dndl2-calebgfx22.vercel.app" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mhhywrk1xyep6nnpqbma893hb)
 
 ### Connect with me:
 
