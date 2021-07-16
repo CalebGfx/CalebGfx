@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](novatorem-lime-alpha.vercel.app)](https://open.spotify.com/user/mhhywrk1xyep6nnpqbma893hb)
+[<img src="novatorem-lime-alpha.vercel.app" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mhhywrk1xyep6nnpqbma893hb)
 
 ### Connect with me:
 
