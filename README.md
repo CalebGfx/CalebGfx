@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing22-r11xm8pxo-calebgtx2234.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/mhhywrk1xyep6nnpqbma893hb)
+[<img src="spotify-playing-now-jade.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/mhhywrk1xyep6nnpqbma893hb)
 
 ### Connect with me:
 
