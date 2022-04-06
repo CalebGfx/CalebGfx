@@ -11,13 +11,13 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to livestream and play games
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playingg.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/l4ey8ixyv0708px7esvhdhk2y)
-
 ### Discord Profile:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/363349311305809920)](https://discord.com/users/363349311305809920)
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playingg.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/l4ey8ixyv0708px7esvhdhk2y)
 
 ### Connect with me:
 
