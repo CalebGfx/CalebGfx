@@ -15,6 +15,10 @@
 
 [<img src="https://spotify-now-playingg.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/l4ey8ixyv0708px7esvhdhk2y)
 
+### Discord Profile:
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/363349311305809920)](https://discord.com/users/363349311305809920)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
