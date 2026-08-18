@@ -13,7 +13,7 @@
 
 ### Discord Profile:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/363349311305809920)](https://discord.com/users/363349311305809920)
+[![Discord Presence](https://lanyard.cnrad.dev/api/185069652009943050)](https://discord.com/users/185069652009943050)
 
 ### Spotify Playing 🎧
 
